@@ -1,18 +1,19 @@
 # java-mail-clients
 
-This is a demo for how to Send Java Email from GMail, Outlook and Yahoo.
+This is a demo for how to Send Java Email from GMail, Outlook, Yahoo and Zoho.
 
 ### Version
-1.0
+1.1
 
 ### Tech
 
 java-mail-clients uses below mail api:
 
 * [JavaMail API] - JavaMail : version-1.5.4 
-* [GMail SMTP] - GMail SMTP Settings.
+* [GMail SMTP] - Gmail SMTP Settings.
 * [Outlook SMTP] - Outlook SMTP Settings.
 * [Yahoo SMTP] - Yahoo SMTP Settings.
+* [Zoho SMTP] - Zoho SMTP Settings.
 
 ### Installation
 
@@ -45,3 +46,4 @@ MIT
    [GMail SMTP]: <https://support.google.com/a/answer/176600?hl=en>
    [Outlook SMTP]: <https://www.outlook-apps.com/outlook-com-pop-settings/>
    [Yahoo SMTP]: <http://www.serversmtp.com/en/smtp-yahoo>
+   [Zoho SMTP]: <https://www.zoho.com/mail/help/zoho-smtp.html>

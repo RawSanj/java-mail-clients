@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rawsanj.mail</groupId>
+  <artifactId>mail</artifactId>
+  <version>1.0</version>
+  <properties>
+  	<sun-mail.version>1.5.4</sun-mail.version>
+  </properties>
+  <dependencies>
+  	<dependency>
+		<groupId>com.sun.mail</groupId>
+		<artifactId>javax.mail</artifactId>
+		<version>${sun-mail.version}</version>
+	</dependency>
+  </dependencies>
+</project>

@@ -1,13 +1,14 @@
 # java-mail-clients
 
-This is a demo for how to Send Java Email from GMail, Outlook, Yahoo and Zoho.
+
+#### This demo is created to test the Java Mail Clients, to configure MailService is [jHipster] application as suggested in jHipster Tip - [Configuring Email with - Gmail]
 
 ### Version
 1.1
 
-### Tech
+### Reference
 
-java-mail-clients uses below mail api:
+Refer below links for API and SMTP settings:
 
 * [JavaMail API] - JavaMail : version-1.5.4 
 * [GMail SMTP] - Gmail SMTP Settings.
@@ -47,3 +48,5 @@ MIT
    [Outlook SMTP]: <https://www.outlook-apps.com/outlook-com-pop-settings/>
    [Yahoo SMTP]: <http://www.serversmtp.com/en/smtp-yahoo>
    [Zoho SMTP]: <https://www.zoho.com/mail/help/zoho-smtp.html>
+   [jHipster]: <https://jhipster.github.io/>
+   [Configuring Email with - Gmail]: <https://jhipster.github.io/tips/011_tip_configuring_email_in_jhipster.html>

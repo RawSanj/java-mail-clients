@@ -6,6 +6,16 @@
 ### Version
 1.1
 
+### Note (for Gmail)
+You must allow your Gmail account to access less secure apps.
+
+
+Login to Gmail and visit [Here](https://www.google.com/settings/security/lesssecureapps) to Turn On Access for less secure apps.
+
+[More Info here](https://support.google.com/accounts/answer/6010255)
+
+
+
 ### Reference
 
 Refer below links for API and SMTP settings:
@@ -33,13 +43,14 @@ The following tools are used to create this project :
 * Google Chrome
 * Git
 
-License
+
+### License
 ----
 
-MIT
+The MIT License (MIT)
 
+Copyright (c) 2016. Sanjay Rawat
 
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
